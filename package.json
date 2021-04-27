@@ -18,7 +18,7 @@
     "cli-color": "^1.1.0",
     "lodash": "^4.17.14",
     "node-fetch": "^1.6.3",
-    "redis": "^2.6.4",
+    "redis": "^3.1.1",
     "winston": "^2.3.0"
   },
   "devDependencies": {
